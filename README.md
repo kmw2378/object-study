@@ -26,10 +26,10 @@
 | Chapter 8. 의존성 관리         |                                       |                  ✅                     |                                       |                   ✅                                                                |  ✅   |
 | Chapter 9. 유연한 설계         |                                       |                    ✅                   |                                       |                    ✅                                                               |   ✅  |
 | Chapter 10. 상속과 코드 재사용    |                                       |                    ✅                   |                                       |                   ✅                                                                | ✅    |
-| Chapter 11. 합성과 유연한 설계    |                                       |                      ✅                 |                                       |                 ✅                                                                  |  ✅   |
-| Chapter 12. 다형성           |                                       |                                       |                                       |                       ✅                                                            |     |
-| Chapter 13. 서브클래싱과 서브타이핑  |                                       |                                       |                                       |                                                                                   |     |
-| Chapter 14. 일관성 있는 협력     |                                       |                                       |                                       |                                                                                   |     |
+| Chapter 11. 합성과 유연한 설계    |                                       |                      ✅                 |                                       |                 ✅                                                                  |  ✅   |    ✅
+| Chapter 12. 다형성           |                                       |                      ✅                   |                                       |                       ✅                                                            |     |
+| Chapter 13. 서브클래싱과 서브타이핑  |                                       |                ✅                       |                                       |                                                                                   |     |
+| Chapter 14. 일관성 있는 협력     |                                       |                     ✅                  |                                       |                                                                                   |     |
 
 ## Reference
 - https://github.com/eternity-oop/object
